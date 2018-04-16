@@ -1,6 +1,11 @@
 i  am  a good people.
 try git hub
+<<<<<<< HEAD
 
 
 i am changed by master
+=======
+>>>>>>> aaaa
 Git is a version control system .
+
+i am change aaaa
